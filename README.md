@@ -1,8 +1,12 @@
-# Nombre de la aplicación
+# Nombre de la aplicación:  Brain Games
 
-Reemplace este texto con una descripción de su aplicación. Revise el archivo [HELP.md](HELP.md) donde hay mas información sobre como usar esta plantilla.
+La aplicación incluye una cantidad de juegos de agilidad mental...
 
-Autor(es): Nombre del estudiante
+Autor(es): 
+- Santiago Caro Morales
+- Julián Santiago Solano López
+- Michell Valentina Santos Gutiérrez
+
 
 ## Referencias
 
